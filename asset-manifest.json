@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vanness/static/css/main.3d9bc3ef.css",
+    "main.js": "/vanness/static/js/main.ff6308b2.js",
+    "static/js/787.24e9e548.chunk.js": "/vanness/static/js/787.24e9e548.chunk.js",
+    "static/media/kanit-all-400-normal.woff": "/vanness/static/media/kanit-all-400-normal.5647bc845c91e8af9cb2.woff",
+    "static/media/kanit-latin-ext-400-normal.woff2": "/vanness/static/media/kanit-latin-ext-400-normal.6ee32b38269671ec583e.woff2",
+    "static/media/kanit-latin-400-normal.woff2": "/vanness/static/media/kanit-latin-400-normal.30d596e48610ef7e8932.woff2",
+    "static/media/kanit-thai-400-normal.woff2": "/vanness/static/media/kanit-thai-400-normal.2335bb66335de2d0775d.woff2",
+    "static/media/kanit-vietnamese-400-normal.woff2": "/vanness/static/media/kanit-vietnamese-400-normal.cecfc82ea605111b5bb6.woff2",
+    "index.html": "/vanness/index.html",
+    "main.3d9bc3ef.css.map": "/vanness/static/css/main.3d9bc3ef.css.map",
+    "main.ff6308b2.js.map": "/vanness/static/js/main.ff6308b2.js.map",
+    "787.24e9e548.chunk.js.map": "/vanness/static/js/787.24e9e548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9bc3ef.css",
+    "static/js/main.ff6308b2.js"
+  ]
+}
